@@ -1,0 +1,41 @@
+vehicleGroupName,MaxItemWeight,maxLength ,maxWidth ,maxHeight
+blind van,1000,150,160,108.0
+cdd car carrier,5500,560,200,
+cdd wingbox,10000,930,250,250.0
+cde wingbox,7000,700,220,250.0
+cdd motor long carrier,10000,720,230,250.0
+cdd bak,5500,560,200,220.0
+cde chiller,3200,350,173,200.0
+cde box,3600,350,160,160.0
+cde bak,3600,350,160,80.0
+cde los bak,3200,350,173,
+cdd chiller,5500,560,200,220.0
+pick up box,500,237,155,129.0
+pick up bak,1200,242,144,30.0
+pick up chiller,500,237,155,129.0
+cdd box,5500,560,200,220.0
+cdd long bak,10000,720,230,250.0
+cdd long box,10000,720,230,250.0
+cdd long tangki,10000,760,230,250.0
+cdd los bak,5500,560,200,
+los bak,3600,350,160,80.0
+fuso bak,7000,570,230,120.0
+fuso box,7000,570,230,240.0
+fuso jumbo,8000,570,230,220.0
+tronton wingbox,17800,940,240,290.0
+tronton box,7800,630,220,230.0
+tronton bak,7800,630,220,230.0
+tronton los bak,7800,630,220,
+tronton dump truck,7800,630,220,230.0
+dump truck,3600,350,160,80.0
+self loader,8000,1198,249,378.0
+fuso tronton,10000,980,255,275.0
+tronton car carrier,7800,630,220,230.0
+trinton chiller,2800,630,220,230.0
+trailer chiller container 40 feet,29150,1150,220,220.0
+trailer 40 feetasdd40,60000,1250,250,155.0
+trailer dry container 45 feet,32000,1350,230,230.0
+trailer chiller container 20 feet,27400,544,220,220.0
+trailer dry container 40 feet,30000,1200,230,230.0
+trailer dry container 20 feet,20000,600,220,230.0
+low bed,30000,1500,360,300.0
